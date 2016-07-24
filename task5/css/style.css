@@ -1,0 +1,138 @@
+  body {
+    background-color: #eee;
+    padding: 0;
+    margin: 0;
+    font-style: "黑体";
+    font-size: 14px;
+    min-width: 750px;
+  }
+  .imginfo {
+    padding:5px 30px;
+  }
+  nav {
+    background-color: #555;
+    width: 100%;
+    height: 75px;
+    margin-left: -2px;
+    display: inline-block;
+  }
+  nav-brand {
+    float: left;
+  }
+  nav-brand img{
+  	vertical-align: middle;
+  	height: 75px;
+  }
+  ul.nav-list {
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+  }
+  ul.nav-list li {
+    float: left;
+    margin-left: 20px;
+  }
+  ul.nav-list li a{
+    text-decoration: none;
+    color: #fafafa;
+  }
+  ul.nav-list li a.disabled {
+     pointer-events:none;
+     color:#ccc;
+     cursor:default
+  }
+  aside{
+  	background: #fff;
+  	float: right;
+  	margin-top: 40px;
+  	margin-right: 20px;
+  	padding: 20px;
+  	box-shadow: 2px 2px 2px #848484;
+  }
+  box {
+    display: block;
+    margin: 40px 400px 20px 40px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 2px 2px 1px #848484;
+    border: 1px solid #ddd;
+    line-height: 1.5;
+  }
+  p {
+    text-indent: 2em;
+  }
+  box h3 {
+    color: #888;
+  }
+  box h4 {
+    color: #999;
+    font-weight: normal;
+  }
+  .imginfo {
+  	height: 10px;
+  	width: 100px;
+  	text-align: center;
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  .imginfo img{
+  	width: 80%;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    text-align: left;
+    padding: 5px 10px;
+  }
+  thead {
+    background-color: #222;
+    color: #fafafa;
+  }
+  tfoot {
+    background-color: #ccc;
+    font-weight: bold;
+  }
+  .slide-header {
+    border-left: 3px solid #bbb;
+    padding: 10px;
+  }
+  form label {
+    display: inline-block;
+    width: 33%;
+    text-align: right;
+    margin: 10px 10px 15px 16px;
+  }
+  .btn-submit {
+    margin-top: 20px;
+    width: 100%;
+    font-size: 16px;
+    padding: 7px;
+    background-color: #3355d0;
+    border: none;
+    color: #fafafa;
+    border-radius: 8px;
+  }
+  tips {
+    color: #777;
+  }
+  textarea {
+    width: 53%;
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: top;
+    position: relative;
+    top: 10px;
+  }
+  footer {
+    background-color: #111;
+    color: #fafafa;
+    text-align: center;
+    font-size: 14px;
+    line-height: 14px;
+    padding: 25px;
+  }
