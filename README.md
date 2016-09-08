@@ -64,4 +64,8 @@ http://htmlpreview.github.io/?https://github.com/chaiqingshan/baidu-ife-2016-spr
 task21-javascript:<br>
 http://htmlpreview.github.io/?https://github.com/chaiqingshan/baidu-ife-2016-spring/blob/master/task21-javascript/task21.html
 
-task22-遍历二叉树：http://htmlpreview.github.io/?https://github.com/chaiqingshan/baidu-ife-2016-spring/blob/master/task22-%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91/task22.html
+task22-遍历二叉树：<br>
+http://htmlpreview.github.io/?https://github.com/chaiqingshan/baidu-ife-2016-spring/blob/master/task22-%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91/task22.html
+
+task23-javascript与树:<br>
+http://htmlpreview.github.io/?https://github.com/chaiqingshan/baidu-ife-2016-spring/blob/master/task23-javascript%E4%B8%8E%E6%A0%91/index.html
